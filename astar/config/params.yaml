@@ -1,0 +1,7 @@
+astar_node:
+  ros__parameters:
+    Euclidean: true
+    OccupyThresh: -1
+    InflateRadius: 0.60
+    rate: 10 #Hz - Active if ros_service = false
+    ros_service: true #If false, subscribers are selected

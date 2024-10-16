@@ -1,0 +1,4 @@
+geometry_msgs/PoseStamped init_pose
+geometry_msgs/PoseStamped goal_pose
+---
+nav_msgs/Path path
