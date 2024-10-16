@@ -1,5 +1,5 @@
 # ros2_astar
-===
+
 ROS2 implementation of the A* algorithm 
 
 ## Usage  
